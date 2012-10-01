@@ -1,0 +1,122 @@
+
+*{
+	margin:0;
+	padding:0;
+}
+
+a
+
+{
+	color: #CCC;
+	text-decoration:none;
+}
+
+html,body
+{
+	background: #03518d;
+	font-family: Arial,Helvetica;
+	font-size:20px;
+	font-weight:bold;
+	color:#efeeee;
+}
+
+h1
+{
+	display:block;
+	margin:0 auto 1em auto;
+	text-align:center;
+}
+
+#caja
+{
+	border:10px dashed #000;
+	width:80%;
+	height:280px;
+	display:block;
+	margin:0 auto 1em auto;	
+
+}
+
+p
+{
+	display:block;
+	font-size:0.8em;
+	width:80%;
+	margin:0 auto;
+	text-align:center;
+}
+
+.dragover
+{
+	background:#1c5f93;
+}
+
+#caja span
+{
+	display: block;
+	font-size:40px;
+	text-align:center;
+	line-height:280px;
+	height:100%;
+	width:100%;
+}
+
+#ups
+{
+	background:#1c5f93;
+	display:none;
+	margin: 0 auto;
+	min-height:100px;
+	padding:5px;
+	width:60%;
+}
+
+.up
+{
+	display: block;
+	background:#252525;
+	width:99%;
+	margin:5px auto;
+	font-size:0.8em;
+	padding:3px;
+	overflow: hidden;
+	white-space: nowrap;
+}
+
+.up a
+{
+	color:#98cd9c;
+}
+
+.up a:hover
+{
+	text-decoration:underline;
+}
+
+hr
+{
+	background: transparent;
+	margin:10px;
+	padding:0;
+	border:0;
+	border-bottom:1px dashed #CCCCCC;
+}
+
+#html5Valid
+{
+	margin:1em auto;
+	width:229px;
+}
+
+
+.error
+{
+	background:#b91727 !important;
+}
+
+#social
+{
+	display: block;
+	margin: 0 auto;
+	width:70px;
+}
